@@ -1,0 +1,1870 @@
+[
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "1C Enterprise"
+  },
+  {
+    "languageColor" : "E8274B",
+    "languageName" : "ABAP"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "ABNF"
+  },
+  {
+    "languageColor" : "882B0F",
+    "languageName" : "ActionScript"
+  },
+  {
+    "languageColor" : "02f88c",
+    "languageName" : "Ada"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Adobe Font Metrics"
+  },
+  {
+    "languageColor" : "315665",
+    "languageName" : "Agda"
+  },
+  {
+    "languageColor" : "B9D9FF",
+    "languageName" : "AGS Script"
+  },
+  {
+    "languageColor" : "64C800",
+    "languageName" : "Alloy"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Alpine Abuild"
+  },
+  {
+    "languageColor" : "E6EFBB",
+    "languageName" : "AMPL"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "AngelScript"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Ant Build System"
+  },
+  {
+    "languageColor" : "9DC3FF",
+    "languageName" : "ANTLR"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "ApacheConf"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Apex"
+  },
+  {
+    "languageColor" : "2ACCA8",
+    "languageName" : "API Blueprint"
+  },
+  {
+    "languageColor" : "5A8164",
+    "languageName" : "APL"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Apollo Guidance Computer"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "AppleScript"
+  },
+  {
+    "languageColor" : "aa2afe",
+    "languageName" : "Arc"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "AsciiDoc"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "ASN.1"
+  },
+  {
+    "languageColor" : "6a40fd",
+    "languageName" : "ASP"
+  },
+  {
+    "languageColor" : "a957b0",
+    "languageName" : "AspectJ"
+  },
+  {
+    "languageColor" : "6E4C13",
+    "languageName" : "Assembly"
+  },
+  {
+    "languageColor" : "1ac620",
+    "languageName" : "ATS"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Augeas"
+  },
+  {
+    "languageColor" : "6594b9",
+    "languageName" : "AutoHotkey"
+  },
+  {
+    "languageColor" : "1C3552",
+    "languageName" : "AutoIt"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Awk"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Ballerina"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Batchfile"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Befunge"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Bison"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "BitBake"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Blade"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "BlitzBasic"
+  },
+  {
+    "languageColor" : "cd6400",
+    "languageName" : "BlitzMax"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Bluespec"
+  },
+  {
+    "languageColor" : "d4bec1",
+    "languageName" : "Boo"
+  },
+  {
+    "languageColor" : "2F2530",
+    "languageName" : "Brainfuck"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Brightscript"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Bro"
+  },
+  {
+    "languageColor" : "555555",
+    "languageName" : "C"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "C#"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "C++"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "C ObjDump"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "C2hs Haskell"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Cap'n Proto"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "CartoCSS"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Ceylon"
+  },
+  {
+    "languageColor" : "8dc63f",
+    "languageName" : "Chapel"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Charity"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "ChucK"
+  },
+  {
+    "languageColor" : "ccccff",
+    "languageName" : "Cirru"
+  },
+  {
+    "languageColor" : "db901e",
+    "languageName" : "Clarion"
+  },
+  {
+    "languageColor" : "3F85AF",
+    "languageName" : "Clean"
+  },
+  {
+    "languageColor" : "E4E6F3",
+    "languageName" : "Click"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "CLIPS"
+  },
+  {
+    "languageColor" : "db5855",
+    "languageName" : "Clojure"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Closure Templates"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "CMake"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "COBOL"
+  },
+  {
+    "languageColor" : "244776",
+    "languageName" : "CoffeeScript"
+  },
+  {
+    "languageColor" : "ed2cd6",
+    "languageName" : "ColdFusion"
+  },
+  {
+    "languageColor" : "ed2cd6",
+    "languageName" : "ColdFusion CFC"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "COLLADA"
+  },
+  {
+    "languageColor" : "3fb68b",
+    "languageName" : "Common Lisp"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Common Workflow Language"
+  },
+  {
+    "languageColor" : "b0ce4e",
+    "languageName" : "Component Pascal"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Cool"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Coq"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Cpp ObjDump"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Creole"
+  },
+  {
+    "languageColor" : "776791",
+    "languageName" : "Crystal"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "CSON"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Csound"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Csound Document"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Csound Score"
+  },
+  {
+    "languageColor" : "563d7c",
+    "languageName" : "CSS"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "CSV"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Cuda"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "CWeb"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Cycript"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Cython"
+  },
+  {
+    "languageColor" : "ba595e",
+    "languageName" : "D"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "D ObjDump"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Darcs Patch"
+  },
+  {
+    "languageColor" : "00B4AB",
+    "languageName" : "Dart"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "DataWeave"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "desktop"
+  },
+  {
+    "languageColor" : "88dddd",
+    "languageName" : "Diff"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "DIGITAL Command Language"
+  },
+  {
+    "languageColor" : "447265",
+    "languageName" : "DM"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "DNS Zone"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Dockerfile"
+  },
+  {
+    "languageColor" : "cca760",
+    "languageName" : "Dogescript"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "DTrace"
+  },
+  {
+    "languageColor" : "6c616e",
+    "languageName" : "Dylan"
+  },
+  {
+    "languageColor" : "ccce35",
+    "languageName" : "E"
+  },
+  {
+    "languageColor" : "814C05",
+    "languageName" : "Eagle"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Easybuild"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "EBNF"
+  },
+  {
+    "languageColor" : "913960",
+    "languageName" : "eC"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Ecere Projects"
+  },
+  {
+    "languageColor" : "8a1267",
+    "languageName" : "ECL"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "ECLiPSe"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Edje Data Collection"
+  },
+  {
+    "languageColor" : "db5855",
+    "languageName" : "edn"
+  },
+  {
+    "languageColor" : "946d57",
+    "languageName" : "Eiffel"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "EJS"
+  },
+  {
+    "languageColor" : "6e4a7e",
+    "languageName" : "Elixir"
+  },
+  {
+    "languageColor" : "60B5CC",
+    "languageName" : "Elm"
+  },
+  {
+    "languageColor" : "c065db",
+    "languageName" : "Emacs Lisp"
+  },
+  {
+    "languageColor" : "FFF4F3",
+    "languageName" : "EmberScript"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "EQ"
+  },
+  {
+    "languageColor" : "B83998",
+    "languageName" : "Erlang"
+  },
+  {
+    "languageColor" : "b845fc",
+    "languageName" : "F#"
+  },
+  {
+    "languageColor" : "636746",
+    "languageName" : "Factor"
+  },
+  {
+    "languageColor" : "7b9db4",
+    "languageName" : "Fancy"
+  },
+  {
+    "languageColor" : "dbded5",
+    "languageName" : "Fantom"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Filebench WML"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Filterscript"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "fish"
+  },
+  {
+    "languageColor" : "88ccff",
+    "languageName" : "FLUX"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Formatted"
+  },
+  {
+    "languageColor" : "341708",
+    "languageName" : "Forth"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Fortran"
+  },
+  {
+    "languageColor" : "0050b2",
+    "languageName" : "FreeMarker"
+  },
+  {
+    "languageColor" : "00cafe",
+    "languageName" : "Frege"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "G code"
+  },
+  {
+    "languageColor" : "8fb200",
+    "languageName" : "Game Maker Language"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "GAMS"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "GAP"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "GCC Machine Description"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "GDB"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "GDScript"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Genie"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Genshi"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Gentoo Ebuild"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Gentoo Eclass"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Gerber Image"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Gettext Catalog"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Gherkin"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "GLSL"
+  },
+  {
+    "languageColor" : "e4cc98",
+    "languageName" : "Glyph"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "GN"
+  },
+  {
+    "languageColor" : "f0a9f0",
+    "languageName" : "Gnuplot"
+  },
+  {
+    "languageColor" : "375eab",
+    "languageName" : "Go"
+  },
+  {
+    "languageColor" : "88562A",
+    "languageName" : "Golo"
+  },
+  {
+    "languageColor" : "82937f",
+    "languageName" : "Gosu"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Grace"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Gradle"
+  },
+  {
+    "languageColor" : "79aa7a",
+    "languageName" : "Grammatical Framework"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Graph Modeling Language"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "GraphQL"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Graphviz (DOT)"
+  },
+  {
+    "languageColor" : "e69f56",
+    "languageName" : "Groovy"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Groovy Server Pages"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Hack"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Haml"
+  },
+  {
+    "languageColor" : "01a9d6",
+    "languageName" : "Handlebars"
+  },
+  {
+    "languageColor" : "0e60e3",
+    "languageName" : "Harbour"
+  },
+  {
+    "languageColor" : "29b544",
+    "languageName" : "Haskell"
+  },
+  {
+    "languageColor" : "df7900",
+    "languageName" : "Haxe"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "HCL"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "HLSL"
+  },
+  {
+    "languageColor" : "e44b23",
+    "languageName" : "HTML"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "HTML+Django"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "HTML+ECR"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "HTML+EEX"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "HTML+ERB"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "HTML+PHP"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "HTTP"
+  },
+  {
+    "languageColor" : "7790B2",
+    "languageName" : "Hy"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "HyPhy"
+  },
+  {
+    "languageColor" : "a3522f",
+    "languageName" : "IDL"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Idris"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "IGOR Pro"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Inform 7"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "INI"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Inno Setup"
+  },
+  {
+    "languageColor" : "a9188d",
+    "languageName" : "Io"
+  },
+  {
+    "languageColor" : "078193",
+    "languageName" : "Ioke"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "IRC log"
+  },
+  {
+    "languageColor" : "FEFE00",
+    "languageName" : "Isabelle"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Isabelle ROOT"
+  },
+  {
+    "languageColor" : "9EEDFF",
+    "languageName" : "J"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Jasmin"
+  },
+  {
+    "languageColor" : "b07219",
+    "languageName" : "Java"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Java Server Pages"
+  },
+  {
+    "languageColor" : "f1e05a",
+    "languageName" : "JavaScript"
+  },
+  {
+    "languageColor" : "DBCA00",
+    "languageName" : "JFlex"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Jison"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Jison Lex"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Jolie"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "JSON"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "JSON5"
+  },
+  {
+    "languageColor" : "40d47e",
+    "languageName" : "JSONiq"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "JSONLD"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "JSX"
+  },
+  {
+    "languageColor" : "a270ba",
+    "languageName" : "Julia"
+  },
+  {
+    "languageColor" : "DA5B0B",
+    "languageName" : "Jupyter Notebook"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "KiCad Layout"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "KiCad Legacy Layout"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "KiCad Schematic"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Kit"
+  },
+  {
+    "languageColor" : "F18E33",
+    "languageName" : "Kotlin"
+  },
+  {
+    "languageColor" : "28431f",
+    "languageName" : "KRL"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "LabVIEW"
+  },
+  {
+    "languageColor" : "999999",
+    "languageName" : "Lasso"
+  },
+  {
+    "languageColor" : "A8FF97",
+    "languageName" : "Latte"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Lean"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Less"
+  },
+  {
+    "languageColor" : "DBCA00",
+    "languageName" : "Lex"
+  },
+  {
+    "languageColor" : "004200",
+    "languageName" : "LFE"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "LilyPond"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Limbo"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Linker Script"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Linux Kernel Module"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Liquid"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Literate Agda"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Literate CoffeeScript"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Literate Haskell"
+  },
+  {
+    "languageColor" : "499886",
+    "languageName" : "LiveScript"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "LLVM"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Logos"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Logtalk"
+  },
+  {
+    "languageColor" : "cc9900",
+    "languageName" : "LOLCODE"
+  },
+  {
+    "languageColor" : "652B81",
+    "languageName" : "LookML"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "LoomScript"
+  },
+  {
+    "languageColor" : "3d9970",
+    "languageName" : "LSL"
+  },
+  {
+    "languageColor" : "000080",
+    "languageName" : "Lua"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "M"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "M4"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "M4Sugar"
+  },
+  {
+    "languageColor" : "427819",
+    "languageName" : "Makefile"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Mako"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Markdown"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Marko"
+  },
+  {
+    "languageColor" : "f97732",
+    "languageName" : "Mask"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Mathematica"
+  },
+  {
+    "languageColor" : "bb92ac",
+    "languageName" : "Matlab"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Maven POM"
+  },
+  {
+    "languageColor" : "c4a79c",
+    "languageName" : "Max"
+  },
+  {
+    "languageColor" : "00a6a6",
+    "languageName" : "MAXScript"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "MediaWiki"
+  },
+  {
+    "languageColor" : "ff2b2b",
+    "languageName" : "Mercury"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Meson"
+  },
+  {
+    "languageColor" : "8f14e9",
+    "languageName" : "Metal"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "MiniD"
+  },
+  {
+    "languageColor" : "c7a938",
+    "languageName" : "Mirah"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Modelica"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Modula 2"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Module Management System"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Monkey"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Moocode"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "MoonScript"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "MQL4"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "MQL5"
+  },
+  {
+    "languageColor" : "b7e1f4",
+    "languageName" : "MTML"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "MUF"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "mupad"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Myghty"
+  },
+  {
+    "languageColor" : "28431f",
+    "languageName" : "NCL"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Nearley"
+  },
+  {
+    "languageColor" : "3d3c6e",
+    "languageName" : "Nemerle"
+  },
+  {
+    "languageColor" : "94B0C7",
+    "languageName" : "nesC"
+  },
+  {
+    "languageColor" : "0aa0ff",
+    "languageName" : "NetLinx"
+  },
+  {
+    "languageColor" : "747faa",
+    "languageName" : "NetLinx+ERB"
+  },
+  {
+    "languageColor" : "ff6375",
+    "languageName" : "NetLogo"
+  },
+  {
+    "languageColor" : "87AED7",
+    "languageName" : "NewLisp"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Nextflow"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Nginx"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Nim"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Ninja"
+  },
+  {
+    "languageColor" : "009917",
+    "languageName" : "Nit"
+  },
+  {
+    "languageColor" : "7e7eff",
+    "languageName" : "Nix"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "NL"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "NSIS"
+  },
+  {
+    "languageColor" : "c9df40",
+    "languageName" : "Nu"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "NumPy"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "ObjDump"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Objective C"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Objective C++"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Objective J"
+  },
+  {
+    "languageColor" : "3be133",
+    "languageName" : "OCaml"
+  },
+  {
+    "languageColor" : "cabbff",
+    "languageName" : "Omgrofl"
+  },
+  {
+    "languageColor" : "b0b77e",
+    "languageName" : "ooc"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Opa"
+  },
+  {
+    "languageColor" : "f7ede0",
+    "languageName" : "Opal"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "OpenCL"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "OpenEdge ABL"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "OpenRC runscript"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "OpenSCAD"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "OpenType Feature File"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Org"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Ox"
+  },
+  {
+    "languageColor" : "cdd0e3",
+    "languageName" : "Oxygene"
+  },
+  {
+    "languageColor" : "fab738",
+    "languageName" : "Oz"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "P4"
+  },
+  {
+    "languageColor" : "cc0000",
+    "languageName" : "Pan"
+  },
+  {
+    "languageColor" : "6600cc",
+    "languageName" : "Papyrus"
+  },
+  {
+    "languageColor" : "f3ca0a",
+    "languageName" : "Parrot"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Parrot Assembly"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Parrot Internal Representation"
+  },
+  {
+    "languageColor" : "b0ce4e",
+    "languageName" : "Pascal"
+  },
+  {
+    "languageColor" : "dbb284",
+    "languageName" : "PAWN"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Pep8"
+  },
+  {
+    "languageColor" : "0298c3",
+    "languageName" : "Perl"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Perl 6"
+  },
+  {
+    "languageColor" : "4F5D95",
+    "languageName" : "PHP"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Pic"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Pickle"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "PicoLisp"
+  },
+  {
+    "languageColor" : "fcd7de",
+    "languageName" : "PigLatin"
+  },
+  {
+    "languageColor" : "005390",
+    "languageName" : "Pike"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "PLpgSQL"
+  },
+  {
+    "languageColor" : "dad8d8",
+    "languageName" : "PLSQL"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Pod"
+  },
+  {
+    "languageColor" : "d80074",
+    "languageName" : "PogoScript"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Pony"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "PostScript"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "POV Ray SDL"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "PowerBuilder"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "PowerShell"
+  },
+  {
+    "languageColor" : "0096D8",
+    "languageName" : "Processing"
+  },
+  {
+    "languageColor" : "74283c",
+    "languageName" : "Prolog"
+  },
+  {
+    "languageColor" : "7fa2a7",
+    "languageName" : "Propeller Spin"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Protocol Buffer"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Public Key"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Pug"
+  },
+  {
+    "languageColor" : "302B6D",
+    "languageName" : "Puppet"
+  },
+  {
+    "languageColor" : "91de79",
+    "languageName" : "Pure Data"
+  },
+  {
+    "languageColor" : "5a6986",
+    "languageName" : "PureBasic"
+  },
+  {
+    "languageColor" : "1D222D",
+    "languageName" : "PureScript"
+  },
+  {
+    "languageColor" : "3572A5",
+    "languageName" : "Python"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Python console"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Python traceback"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "QMake"
+  },
+  {
+    "languageColor" : "44a51c",
+    "languageName" : "QML"
+  },
+  {
+    "languageColor" : "198ce7",
+    "languageName" : "R"
+  },
+  {
+    "languageColor" : "22228f",
+    "languageName" : "Racket"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Ragel"
+  },
+  {
+    "languageColor" : "77d9fb",
+    "languageName" : "RAML"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Rascal"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Raw token data"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "RDoc"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "REALbasic"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Reason"
+  },
+  {
+    "languageColor" : "358a5b",
+    "languageName" : "Rebol"
+  },
+  {
+    "languageColor" : "ee0000",
+    "languageName" : "Red"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Redcode"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Regular Expression"
+  },
+  {
+    "languageColor" : "ff7f7f",
+    "languageName" : "Ren'Py"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "RenderScript"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "reStructuredText"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "REXX"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "RHTML"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Ring"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "RMarkdown"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "RobotFramework"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Roff"
+  },
+  {
+    "languageColor" : "cc0088",
+    "languageName" : "Rouge"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "RPC"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "RPM Spec"
+  },
+  {
+    "languageColor" : "701516",
+    "languageName" : "Ruby"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "RUNOFF"
+  },
+  {
+    "languageColor" : "dea584",
+    "languageName" : "Rust"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Sage"
+  },
+  {
+    "languageColor" : "646464",
+    "languageName" : "SaltStack"
+  },
+  {
+    "languageColor" : "B34936",
+    "languageName" : "SAS"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Sass"
+  },
+  {
+    "languageColor" : "DC322F",
+    "languageName" : "Scala"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Scaml"
+  },
+  {
+    "languageColor" : "1e4aec",
+    "languageName" : "Scheme"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Scilab"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "SCSS"
+  },
+  {
+    "languageColor" : "0579aa",
+    "languageName" : "Self"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "ShaderLab"
+  },
+  {
+    "languageColor" : "89e051",
+    "languageName" : "Shell"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "ShellSession"
+  },
+  {
+    "languageColor" : "120F14",
+    "languageName" : "Shen"
+  },
+  {
+    "languageColor" : "007eff",
+    "languageName" : "Slash"
+  },
+  {
+    "languageColor" : "ff8f77",
+    "languageName" : "Slim"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Smali"
+  },
+  {
+    "languageColor" : "596706",
+    "languageName" : "Smalltalk"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Smarty"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "SMT"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Solidity"
+  },
+  {
+    "languageColor" : "5c7611",
+    "languageName" : "SourcePawn"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "SPARQL"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Spline Font Database"
+  },
+  {
+    "languageColor" : "3F3F3F",
+    "languageName" : "SQF"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "SQL"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "SQLPL"
+  },
+  {
+    "languageColor" : "800000",
+    "languageName" : "Squirrel"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "SRecode Template"
+  },
+  {
+    "languageColor" : "b2011d",
+    "languageName" : "Stan"
+  },
+  {
+    "languageColor" : "dc566d",
+    "languageName" : "Standard ML"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Stata"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "STON"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Stylus"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Sublime Text Config"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "SubRip Text"
+  },
+  {
+    "languageColor" : "46390b",
+    "languageName" : "SuperCollider"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "SVG"
+  },
+  {
+    "languageColor" : "ffac45",
+    "languageName" : "Swift"
+  },
+  {
+    "languageColor" : "DAE1C2",
+    "languageName" : "SystemVerilog"
+  },
+  {
+    "languageColor" : "e4cc98",
+    "languageName" : "Tcl"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Tcsh"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Tea"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Terra"
+  },
+  {
+    "languageColor" : "3D6117",
+    "languageName" : "TeX"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Text"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Textile"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Thrift"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "TI Program"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "TLA"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "TOML"
+  },
+  {
+    "languageColor" : "45f715",
+    "languageName" : "Turing"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Turtle"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Twig"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "TXL"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Type Language"
+  },
+  {
+    "languageColor" : "2b7489",
+    "languageName" : "TypeScript"
+  },
+  {
+    "languageColor" : "4e3617",
+    "languageName" : "Unified Parallel C"
+  },
+  {
+    "languageColor" : "ab69a1",
+    "languageName" : "Unity3D Asset"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Unix Assembly"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Uno"
+  },
+  {
+    "languageColor" : "a54c4d",
+    "languageName" : "UnrealScript"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "UrWeb"
+  },
+  {
+    "languageColor" : "fbe5cd",
+    "languageName" : "Vala"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "VCL"
+  },
+  {
+    "languageColor" : "b2b7f8",
+    "languageName" : "Verilog"
+  },
+  {
+    "languageColor" : "adb2cb",
+    "languageName" : "VHDL"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Vim script"
+  },
+  {
+    "languageColor" : "945db7",
+    "languageName" : "Visual Basic"
+  },
+  {
+    "languageColor" : "1F1F1F",
+    "languageName" : "Volt"
+  },
+  {
+    "languageColor" : "2c3e50",
+    "languageName" : "Vue"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Wavefront Material"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Wavefront Object"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "wdl"
+  },
+  {
+    "languageColor" : "9cc9dd",
+    "languageName" : "Web Ontology Language"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "WebAssembly"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "WebIDL"
+  },
+  {
+    "languageColor" : "7582D1",
+    "languageName" : "wisp"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "World of Warcraft Addon Data"
+  },
+  {
+    "languageColor" : "4B6BEF",
+    "languageName" : "X10"
+  },
+  {
+    "languageColor" : "403a40",
+    "languageName" : "xBase"
+  },
+  {
+    "languageColor" : "99DA07",
+    "languageName" : "XC"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "XCompose"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "XML"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Xojo"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "XPages"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "XPM"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "XProc"
+  },
+  {
+    "languageColor" : "5232e7",
+    "languageName" : "XQuery"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "XS"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "XSLT"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Xtend"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Yacc"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "YAML"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "YANG"
+  },
+  {
+    "languageColor" : "118f9e",
+    "languageName" : "Zephir"
+  },
+  {
+    "languageColor" : "CCCCCC",
+    "languageName" : "Zimpl"
+  }
+]
